@@ -12,7 +12,7 @@ googleAnalytics:
 DefaultContentLanguage: en
 
 permalinks:
-    post: /p/:slug/
+    post: /:title/
     page: /:slug/
 
 params:
