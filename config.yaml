@@ -27,12 +27,12 @@ params:
         customText:
 
     dateFormat:
-        published: Feb 09, 2000
+        published: {{ .Date | time.Format ":date_long" }}
         lastUpdated: Feb 09, 2000 6:09pm EST
 
     sidebar:
         emoji: 🍥
-        subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        subtitle: Go and Lua software developer that also likes flowers, anime and games.
         avatar:
             enabled: true
             local: false
