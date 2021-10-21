@@ -60,9 +60,6 @@ params:
 
     widgets:
         enabled:
-            - search
-            - archives
-            - tag-cloud
 
         archives:
             limit: 5
