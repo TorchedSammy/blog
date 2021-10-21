@@ -26,10 +26,6 @@ params:
         since: 2021
         customText:
 
-    dateFormat:
-        published: '{{ .Date | time.Format ":date_long" }}'
-        lastUpdated: Feb 09, 2000 6:09pm EST
-
     sidebar:
         emoji: 🍥
         subtitle: Go and Lua software developer that also likes flowers, anime and games.
