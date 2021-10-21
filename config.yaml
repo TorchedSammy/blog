@@ -35,7 +35,8 @@ params:
         subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
         avatar:
             enabled: true
-            src: avatars.githubusercontent.com/u/38820196?v=4
+            local: false
+            src: https://avatars.githubusercontent.com/u/38820196?v=4
 
     article:
         math: false
