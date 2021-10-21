@@ -1,4 +1,4 @@
 baseURL = 'https://sammy.is-a.dev/blog/'
 languageCode = 'en-us'
 title = "sammyette's blog"
-theme = "paper"
+theme = "stack"
