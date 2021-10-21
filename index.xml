@@ -1,1 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>sammyette's blog</title><link>https://sammy.is-a.dev/blog/</link><description>Recent content on sammyette's blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 20 Oct 2021 22:35:44 -0400</lastBuildDate><atom:link href="https://sammy.is-a.dev/blog/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>sammyette's blog</title><link>https://sammy.is-a.dev/blog/</link><description>Recent content on sammyette's blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 20 Oct 2021 22:35:44 -0400</lastBuildDate><atom:link href="https://sammy.is-a.dev/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>Making a Blog</title><link>https://sammy.is-a.dev/blog/posts/making-a-blog/</link><pubDate>Wed, 20 Oct 2021 22:35:44 -0400</pubDate><guid>https://sammy.is-a.dev/blog/posts/making-a-blog/</guid><description>&lt;p>Hello, sammy here. A blog!&lt;br>
+I decided to make a blog so I can put some of my random thoughts or do
+a write up on something. Why? Why not?&lt;/p>
+&lt;p>It&amp;rsquo;ll probably be boring and kinda inactive but whatever.&lt;/p>
+&lt;p>If you couldn&amp;rsquo;t notice, it&amp;rsquo;s made with Hugo since I thought that would be the
+easiest to setup. I previously had my thoughts up &lt;a class="link" href="https://tilde.town/~sammyette/thoughts/" target="_blank" rel="noopener"
+>over here&lt;/a>
+on tilde.town but this is easier to theme in my opinion.&lt;/p>
+&lt;p>So, welcome to my dumb blog!! Hope you enjoy my ramblings on things I don&amp;rsquo;t know about
+and rants.&lt;/p></description></item></channel></rss>
