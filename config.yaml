@@ -27,7 +27,7 @@ params:
         customText:
 
     sidebar:
-        emoji: 🍥
+        emoji: 🌺
         subtitle: Go and Lua software developer that also likes flowers, anime and games.
         avatar:
             enabled: true
