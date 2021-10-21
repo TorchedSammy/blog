@@ -27,7 +27,7 @@ params:
         customText:
 
     dateFormat:
-        published: {{ .Date | time.Format ":date_long" }}
+        published: '{{ .Date | time.Format ":date_long" }}'
         lastUpdated: Feb 09, 2000 6:09pm EST
 
     sidebar:
