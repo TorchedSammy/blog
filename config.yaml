@@ -47,10 +47,11 @@ params:
         provider: giscus
 
         giscus:
-            repo: https://github.com/TorchedSammy/blog
-            category:
-            categoryID:
-            mapping:
+            repo: TorchedSammy/blog
+            repoID: R_kgDOGQIMZg
+            category: Announcements
+            categoryID: DIC_kwDOGQIMZs4B_gq4
+            mapping: title
             darkTheme: true
             reactionsEnabled: 1
             emitMetadata: 0
