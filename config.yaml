@@ -1,4 +1,4 @@
-baseurl: https://sammy.is-a.dev/blog
+baseurl: https://sammy.is-a.dev/blog/
 languageCode: en-us
 theme: stack
 paginate: 8
@@ -12,7 +12,7 @@ googleAnalytics:
 DefaultContentLanguage: en
 
 permalinks:
-    post: /:title/
+    posts: /:title/
 
 params:
     mainSections:
