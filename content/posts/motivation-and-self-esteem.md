@@ -34,4 +34,4 @@ while being stuck at home with too much free time.
 
 I like writing code (even while not good) and creating things but I feel like I have
 no reason to, so having someone doing that with me will definitely give a boost in
-productivity.
+productivity. Just looking for the exact time when that can happen.
