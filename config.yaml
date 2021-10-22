@@ -65,14 +65,6 @@ params:
         tagCloud:
             limit: 10
 
-    opengraph:
-        twitter:
-            # Your Twitter username
-            site: ...
-
-            # Available values: summary, summary_large_image
-            card: summary_large_image
-
     defaultImage:
         opengraph:
             enabled: false
@@ -96,7 +88,6 @@ menu:
     main:
         - identifier: home
           name: Home
-          url: /
           weight: -100
           pre: home
           params:
