@@ -92,14 +92,6 @@ params:
             enabled: true
 
 menu:
-    main:
-        - identifier: home
-          name: Home
-          url: /
-          weight: -100
-          pre: home
-          params:
-              newTab: false
 
 related:
     includeNewer: true
