@@ -4,10 +4,9 @@ date: 2021-10-23T18:25:37-04:00
 draft: false
 ---
 
-I like owning and managing Discord communities. There's no specific reason for
-it, but I enjoy bringing people together and making a hub for people to chat.
-I've moderated a few Discord servers before, and even owned one myself with
-500 members.
+I like owning and managing Discord communities. I enjoy bringing people together and
+making a hub for people to chat. I've moderated a few Discord servers before, and
+even owned one myself with 500 members.
 
 Even though in real life I am very introverted and not that social, in the online
 world I kinda like talking to people (with similar interests of course) which is
