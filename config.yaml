@@ -94,7 +94,7 @@ params:
 menu:
     main:
         - identifier: discord
-          name: cloud community
+          name: sammy's cloud community
           url: https://discord.gg/3PDdcQz
           weight: -100
           pre: messages
