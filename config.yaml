@@ -92,7 +92,7 @@ params:
             enabled: true
 
 menu:
-    discord:
+    main:
         - identifier: discord
           name: cloud community
           url: https://discord.gg/3PDdcQz
