@@ -104,7 +104,7 @@ menu:
           name: Github
           url: https://github.com/TorchedSammy
           weight: -90
-          pre: "brand-github"
+          pre: brand-github
           params:
             newTab: true
 
