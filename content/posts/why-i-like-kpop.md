@@ -1,5 +1,5 @@
 ---
-title: "Why I Like Kpop (and other non-english music)"
+title: "Why I Like Kpop (and other non-English music)"
 date: 2021-10-25T19:36:47-04:00
 draft: false
 ---
