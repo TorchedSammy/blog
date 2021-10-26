@@ -21,7 +21,7 @@ attention to what is actually being sung but more just how everything sounds. Th
 is the way (and the only way) I judge music for the most part. I'm not a music critique
 so I do not have to analyze.
 
-> *stan*
+> *stan*  
 Stan is a mix of stalker and fan. Its a crazy fan who basically worships a celebrity.
 
 A separate reason would be kpop *stans*. In my opinion, an average stan isn't
