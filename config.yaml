@@ -97,7 +97,7 @@ menu:
           name: cloud community
           url: https://discord.gg/3PDdcQz
           weight: -100
-          pre: discord
+          pre: messages
           params:
               newTab: true
 
