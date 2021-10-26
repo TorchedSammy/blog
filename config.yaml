@@ -92,6 +92,14 @@ params:
             enabled: true
 
 menu:
+    discord:
+        - identifier: discord
+          name: cloud community
+          url: https://discord.gg/3PDdcQz
+          weight: -100
+          pre: discord
+          params:
+              newTab: true
 
 related:
     includeNewer: true
