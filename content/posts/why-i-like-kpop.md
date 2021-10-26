@@ -7,7 +7,7 @@ draft: false
 I like listening to music, it's easy and accessible. Unlike video media where I
 have to actually pay attention, I can play music in the background and jam out.
 What type of music do I listen to? I listen to what sounds good to me. But I do
-have specific genres I like, one of them being lpop.
+have specific genres I like, one of them being kpop.
 
 Immediate reaction for the average person (when you read the title) is that
 "kpop bad, not good music u dont even understand what theyre saying."
