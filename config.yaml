@@ -100,6 +100,13 @@ menu:
           pre: messages
           params:
               newTab: true
+        - identifier: github
+          name: Github
+          url: https://github.com/TorchedSammy
+          weight: -90
+          pre: brand-github
+          params:
+            newTab: true
 
 related:
     includeNewer: true
