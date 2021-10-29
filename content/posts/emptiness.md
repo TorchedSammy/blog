@@ -1,7 +1,7 @@
 ---
 title: "Emptiness"
 date: 2021-10-29T12:37:04-04:00
-draft: true
+draft: false
 ---
 
 A lot of people wish that they could have free time to do whatever they want,
@@ -23,4 +23,14 @@ in the Discord servers I am in,
 I like sharing things, sometimes too much. Not too much as in personal matters as
 there isn't anything going on in my personal life but a lot of things that I find
 or like to talk about and I frequently feel like I am a pest that no one likes.
+Usually if I mention this in places as well, anyone trying to comfort or help
+doesn't feel genuine at all.
 
+I would really rather just lay in bed all day and think about nothing. After all,
+I mostly feel like nothing but a person no one cares about and someone who tries
+to be liked while still being disliked. I still want to be productive, I even
+made a short post about it but it only helps when I want to work on a project.
+
+Ever since this pandemic started and everyone's been forced to stay at home,
+I realized how boring my life is. it's why I sometimes do crave for attention
+or acknowledgement, recognition, anything at all
