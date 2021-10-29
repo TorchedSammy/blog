@@ -17,8 +17,8 @@ For me, this is where a lingering feeling of emptiness comes from. If I'm not
 playing games or working on a project, I'm basically just idling on Discord
 bored out of my mind with nothing to do. Life feels boring and not that fun.
 A lot of this feeling comes from lack of motivation that I mentioned
-[in a previous post](motivation-and-self-esteem) and feeling like an annoyance
-in the Discord servers I am in,
+[in a previous post](https://sammy.is-a.dev/blog/motivation-and-self-esteem) and feeling like an annoyance
+in the Discord servers I am in.
 
 I like sharing things, sometimes too much. Not too much as in personal matters as
 there isn't anything going on in my personal life but a lot of things that I find
