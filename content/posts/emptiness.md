@@ -33,4 +33,4 @@ made a short post about it but it only helps when I want to work on a project.
 
 Ever since this pandemic started and everyone's been forced to stay at home,
 I realized how boring my life is. it's why I sometimes do crave for attention
-or acknowledgement, recognition, anything at all
+or acknowledgement, recognition, anything at all.
