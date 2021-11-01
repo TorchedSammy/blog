@@ -1,4 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>sammyette's blog</title><link>https://sammy.is-a.dev/blog/</link><description>Recent content on sammyette's blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 29 Oct 2021 12:37:04 -0400</lastBuildDate><atom:link href="https://sammy.is-a.dev/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>Emptiness</title><link>https://sammy.is-a.dev/blog/emptiness/</link><pubDate>Fri, 29 Oct 2021 12:37:04 -0400</pubDate><guid>https://sammy.is-a.dev/blog/emptiness/</guid><description>&lt;p>A lot of people wish that they could have free time to do whatever they want,
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>sammyette's blog</title><link>https://sammy.is-a.dev/blog/</link><description>Recent content on sammyette's blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 31 Oct 2021 21:06:15 -0400</lastBuildDate><atom:link href="https://sammy.is-a.dev/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>Switching from Spotify to Local Music</title><link>https://sammy.is-a.dev/blog/switching-from-spotify-to-local-music/</link><pubDate>Sun, 31 Oct 2021 21:06:15 -0400</pubDate><guid>https://sammy.is-a.dev/blog/switching-from-spotify-to-local-music/</guid><description>&lt;p>As I mentioned in one of my posts before, I like listening to music. Who doesn&amp;rsquo;t?
+I have it in the background while working on a project, I jam to it while bored
+or just have it playing so my environment won&amp;rsquo;t be completely silent.
+&amp;hellip;Except when you get interrupted by an ad.&lt;/p>
+&lt;p>Spotify, and others like YouTube Music or Deezer are all pretty cool,
+but they have ads (besides YT) unless you pay for a monthly subscription service.
+Now, I don&amp;rsquo;t feel like paying for Spotify premium &lt;em>just&lt;/em> to not have ads,
+so I stopped using it!&lt;/p>
+&lt;p>&lt;figure
+>
+&lt;a href="https://modeus.is-inside.me/TREhttCz.png" >
+&lt;img src="https://modeus.is-inside.me/TREhttCz.png"
+loading="lazy"
+alt="A view of my local music library">
+&lt;/a>
+&lt;figcaption>A view of my local music library&lt;/figcaption>
+&lt;/figure>
+For music that I like (which is mostly what I listen to) I downloaded and properly
+tagged all of them (some manually). The perks of this is no ads (obviously) and
+offline listening. I can also sync this between my phone easily, as my music is just
+on my Google Drive. As I&amp;rsquo;m not an audiophile and don&amp;rsquo;t want music taking &lt;em>that much&lt;/em>
+storage, I have them in 124kbps MP3 or M4A.&lt;/p>
+&lt;p>A con to this is having to host all of this. Going my route with the quality
+and format, it&amp;rsquo;ll take a LOT of music to reach Google Drive&amp;rsquo;s free tier of 15GB
+storage.&lt;/p>
+&lt;p>I&amp;rsquo;ve always downloaded my favourites, which is mostly kpop but I decided to take
+a pretty much full time switch away from Spotify. A question you may ask is about music
+discovery. If you only have a local library, how do you find new music to listen to?
+To answer that question, YouTube and osu are the ways of how I get new music.&lt;/p>
+&lt;p>YouTube is definitely a great place to get a very wide variety of music, as there is
+independent artists, meme songs and whatever that aren&amp;rsquo;t on services like Spotify.
+A good example is &lt;em>Maid with Dragons,&lt;/em> the season 2 opening song of &lt;em>Miss Kobayashi&amp;rsquo;s
+Dragon Maid.&lt;/em> Of course, I can download this from YouTube instead with youtube-dl.
+The reason I also mentioned osu is that because it&amp;rsquo;s a rhythm game, and I find a lot
+of random but good maps (and therefore songs) and I can definitely say that
+it has helped in finding a lot of good music. This is how I discovered Ashnikko,
+currently a personal favourite with her type of music.&lt;/p>
+&lt;p>If you only really listen to music once in a while, and/or just the stuff you like,
+I recommend going the local approach or using YouTube, and if you need a rich presence
+kinda like Spotify&amp;rsquo;s, &lt;a class="link" href="https://github.com/TorchedSammy/Clematis" target="_blank" rel="noopener"
+>Clematis&lt;/a> has you
+covered.&lt;/p></description></item><item><title>Emptiness</title><link>https://sammy.is-a.dev/blog/emptiness/</link><pubDate>Fri, 29 Oct 2021 12:37:04 -0400</pubDate><guid>https://sammy.is-a.dev/blog/emptiness/</guid><description>&lt;p>A lot of people wish that they could have free time to do whatever they want,
 that being playing some games or catching up on a TV series. On the other hand,
 I wish that I could be occupied with more things.&lt;/p>
 &lt;p>Since I am still a student, having to deal with a few online classes in the week,
