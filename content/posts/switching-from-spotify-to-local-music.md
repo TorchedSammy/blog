@@ -6,15 +6,15 @@ draft: false
 
 As I mentioned in one of my posts before, I like listening to music. Who doesn't?
 I have it in the background while working on a project, I jam to it while bored
-or just have it playing so my environment won't be completely silent.
-...Except when you get interrupted by an ad.
+or just have it playing so my environment won't be completely silent. Except when
+you get interrupted by an ad.
 
 Spotify, and others like YouTube Music or Deezer are all pretty cool,
 but they have ads (besides YT) unless you pay for a monthly subscription service.
 Now, I don't feel like paying for Spotify premium *just* to not have ads,
 so I stopped using it!
 
-![A view of my local music library](https://modeus.is-inside.me/TREhttCz.png)
+![A small view of my local music library.](https://modeus.is-inside.me/TREhttCz.png)
 For music that I like (which is mostly what I listen to) I downloaded and properly
 tagged all of them (some manually). The perks of this is no ads (obviously) and
 offline listening. I can also sync this between my phone easily, as my music is just
