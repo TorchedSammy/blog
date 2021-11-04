@@ -42,7 +42,7 @@ over the entire window when I open a new file in Neovim. Atleast I can set fallb
 (looking at you Alacritty).
 
 I really think at this point terminals on Windows may be better. Unless another terminal
-comes around and has Alacritty's performance and how WezTerm/kitty handle fonts
+comes around and has Alacritty's performance with how WezTerm/kitty handle fonts
 and fallbacks, I may have to continue using Alacritty or deal with WezTerm's RAM usage.
 
 And no, I'm not using st.
