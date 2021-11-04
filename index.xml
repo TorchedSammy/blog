@@ -40,7 +40,7 @@ is actually a bit slow (it&amp;rsquo;s worked fine for me though) so I can liter
 over the entire window when I open a new file in Neovim. Atleast I can set fallback fonts
 (looking at you Alacritty).&lt;/p>
 &lt;p>I really think at this point terminals on Windows may be better. Unless another terminal
-comes around and has Alacritty&amp;rsquo;s performance and how WezTerm/kitty handle fonts
+comes around and has Alacritty&amp;rsquo;s performance with how WezTerm/kitty handle fonts
 and fallbacks, I may have to continue using Alacritty or deal with WezTerm&amp;rsquo;s RAM usage.&lt;/p>
 &lt;p>And no, I&amp;rsquo;m not using st.&lt;/p></description></item><item><title>Switching from Spotify to Local Music</title><link>https://sammy.is-a.dev/blog/switching-from-spotify-to-local-music/</link><pubDate>Sun, 31 Oct 2021 21:06:15 -0400</pubDate><guid>https://sammy.is-a.dev/blog/switching-from-spotify-to-local-music/</guid><description>&lt;p>As I mentioned in one of my posts before, I like listening to music. Who doesn&amp;rsquo;t?
 I have it in the background while working on a project, I jam to it while bored
