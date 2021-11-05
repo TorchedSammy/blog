@@ -1,4 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>sammyette's blog</title><link>https://sammy.is-a.dev/blog/</link><description>Recent content on sammyette's blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 03 Nov 2021 23:43:40 -0400</lastBuildDate><atom:link href="https://sammy.is-a.dev/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>Terminal Emulators</title><link>https://sammy.is-a.dev/blog/terminal-emulators/</link><pubDate>Wed, 03 Nov 2021 23:43:40 -0400</pubDate><guid>https://sammy.is-a.dev/blog/terminal-emulators/</guid><description>&lt;p>Yesterday I decided to make a custom status line for my Neovim config. In the status
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>sammyette's blog</title><link>https://sammy.is-a.dev/blog/</link><description>Recent content on sammyette's blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 05 Nov 2021 10:06:58 -0400</lastBuildDate><atom:link href="https://sammy.is-a.dev/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>Software Names</title><link>https://sammy.is-a.dev/blog/software-names/</link><pubDate>Fri, 05 Nov 2021 10:06:58 -0400</pubDate><guid>https://sammy.is-a.dev/blog/software-names/</guid><description>&lt;p>Naming things is hard, especially new projects and software.
+I like flowers. They&amp;rsquo;re pretty and nice so if I&amp;rsquo;m lazy, I just name a new piece
+of my software based on a flower that I like. But I don&amp;rsquo;t just pick any flower.
+I gotta have a unique sounding name and I also can&amp;rsquo;t just name the repo
+&amp;ldquo;NightSkyPetunia&amp;rdquo; so I&amp;rsquo;m limited to a short single word name.&lt;/p>
+&lt;p>Other times I do actually take effort in thinking of a name based on what it is about,
+or thing of a random name and just theme the project based on it. The latter
+is easier to do in my opinion. Like for &lt;a class="link" href="https://github.com/TorchedSammy/Ceta" target="_blank" rel="noopener"
+>Ceta&lt;/a>
+which is short for Cetacean and a working logo could just be a whale.
+&lt;a class="link" href="https://github.com/TorchedSammy/Econode" target="_blank" rel="noopener"
+>Econode&lt;/a> is one of those projects with a
+name that has effort put into it, and kinda says what it&amp;rsquo;s about.&lt;/p>
+&lt;p>A nice name for your project can bring some kind of interest or a nice logo.
+I would say that I am good at naming things. Some people also say that I am.&lt;/p></description></item><item><title>Terminal Emulators</title><link>https://sammy.is-a.dev/blog/terminal-emulators/</link><pubDate>Wed, 03 Nov 2021 23:43:40 -0400</pubDate><guid>https://sammy.is-a.dev/blog/terminal-emulators/</guid><description>&lt;p>Yesterday I decided to make a custom status line for my Neovim config. In the status
 line there is a section between the git status and diff indicator and the percentage
 of where I am in the buffer. I thought the space between the two looked a tiny bit
 too much, so with my high intelligence I used a smaller unicode block character.
