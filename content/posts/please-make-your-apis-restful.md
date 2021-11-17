@@ -11,7 +11,7 @@ on [Circleload](https://github.com/TorchedSammy/Circleload) yesterday.
 
 It's a tool that downloads osu! beatmaps from unofficial mirrors. One of them was
 [Kitsu](https://kitsu.moe) (not the anime list) that looked really simple.
-Except when it returned status code 200 for a code I *know* doesn't exist.
+Except when it returned status code 200 for a beatmap I *know* doesn't exist.
 
 Turns out that this API, when getting a beatmap, returns an object like this:  
 ```json
