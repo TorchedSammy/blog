@@ -1,4 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>sammyette's blog</title><link>https://sammy.is-a.dev/blog/</link><description>Recent content on sammyette's blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 09 Nov 2021 21:26:33 -0400</lastBuildDate><atom:link href="https://sammy.is-a.dev/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>Efficiency</title><link>https://sammy.is-a.dev/blog/efficiency/</link><pubDate>Tue, 09 Nov 2021 21:26:33 -0400</pubDate><guid>https://sammy.is-a.dev/blog/efficiency/</guid><description>&lt;p>&lt;em>Usually&lt;/em> I try to be as efficient as possible when doing things. I also
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>sammyette's blog</title><link>https://sammy.is-a.dev/blog/</link><description>Recent content on sammyette's blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 16 Nov 2021 22:33:15 -0500</lastBuildDate><atom:link href="https://sammy.is-a.dev/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>Please Make Your APIs Restful</title><link>https://sammy.is-a.dev/blog/please-make-your-apis-restful/</link><pubDate>Tue, 16 Nov 2021 22:33:15 -0500</pubDate><guid>https://sammy.is-a.dev/blog/please-make-your-apis-restful/</guid><description>&lt;p>Have you ever been working on something but it doesn&amp;rsquo;t work properly
+and you don&amp;rsquo;t know why? This is exactly what I thought when I was working
+on &lt;a class="link" href="https://github.com/TorchedSammy/Circleload" target="_blank" rel="noopener"
+>Circleload&lt;/a> yesterday.&lt;/p>
+&lt;p>It&amp;rsquo;s a tool that downloads osu! beatmaps from unofficial mirrors. One of them was
+&lt;a class="link" href="https://kitsu.moe" target="_blank" rel="noopener"
+>Kitsu&lt;/a> (not the anime list) that looked really simple.
+Except when it returned status code 200 for a code I &lt;em>know&lt;/em> doesn&amp;rsquo;t exist.&lt;/p>
+&lt;p>Turns out that this API, when getting a beatmap, returns an object like this:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-json" data-lang="json">&lt;span class="p">{&lt;/span>
+&lt;span class="nt">&amp;#34;code&amp;#34;&lt;/span>&lt;span class="p">:&lt;/span> &lt;span class="mi">404&lt;/span>&lt;span class="p">,&lt;/span>
+&lt;span class="nt">&amp;#34;message&amp;#34;&lt;/span>&lt;span class="p">:&lt;/span> &lt;span class="s2">&amp;#34;Not found&amp;#34;&lt;/span>
+&lt;span class="p">}&lt;/span>
+&lt;/code>&lt;/pre>&lt;/div>&lt;p>when a beatmap isn&amp;rsquo;t found. You know what else is great? None of these keys are sent
+on a successful request.&lt;/p>
+&lt;p>Thought that was all? When ratelimited while trying to download, Kitsu still sends
+you a nice 200 status code but sends a body of text. What if you&amp;rsquo;re not ratelimited?
+Normal binary data stream.&lt;/p>
+&lt;p>Please document your APIs and make then RESTful so I don&amp;rsquo;t cry while trying to
+figure out what&amp;rsquo;s wrong.&lt;/p></description></item><item><title>Efficiency</title><link>https://sammy.is-a.dev/blog/efficiency/</link><pubDate>Tue, 09 Nov 2021 21:26:33 -0400</pubDate><guid>https://sammy.is-a.dev/blog/efficiency/</guid><description>&lt;p>&lt;em>Usually&lt;/em> I try to be as efficient as possible when doing things. I also
 like having certain ways to organize and do things. A simple example is bread.
 I make sure to cut the bread, toast the bread and put it back together properly.&lt;/p>
 &lt;p>Recently I&amp;rsquo;ve decided to work on my Neovim config so that I can be more efficient
