@@ -1,4 +1,62 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>sammyette's blog</title><link>https://sammy.is-a.dev/blog/</link><description>Recent content on sammyette's blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 16 Nov 2021 22:33:15 -0500</lastBuildDate><atom:link href="https://sammy.is-a.dev/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>Please Make Your APIs Restful</title><link>https://sammy.is-a.dev/blog/please-make-your-apis-restful/</link><pubDate>Tue, 16 Nov 2021 22:33:15 -0500</pubDate><guid>https://sammy.is-a.dev/blog/please-make-your-apis-restful/</guid><description>&lt;p>Have you ever been working on something but it doesn&amp;rsquo;t work properly
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>sammyette's blog</title><link>https://sammy.is-a.dev/blog/</link><description>Recent content on sammyette's blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 09 Apr 2022 23:58:40 -0400</lastBuildDate><atom:link href="https://sammy.is-a.dev/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>Lite XL - A dream close to reality</title><link>https://sammy.is-a.dev/blog/lite-xl-a-dream-close-to-reality/</link><pubDate>Sat, 09 Apr 2022 23:58:40 -0400</pubDate><guid>https://sammy.is-a.dev/blog/lite-xl-a-dream-close-to-reality/</guid><description>&lt;p>A text editor is one of the programs I spend the most time in, since in my free
+time I&amp;rsquo;m working on a code project. Having a comfortable, extensible text editor
+is important to me.&lt;/p>
+&lt;p>I&amp;rsquo;ve been happily using Neovim for the past 1-2 years by now. Before that, while
+on Windows, I was using Sublime Text around 3 years ago. Back then, I just
+needed something to code in with some kind of autocomplete. I started using
+Neovim a while after I moved to Linux and configured it in Vimscript with some
+simple plugins and things like CoC. I kinda got hooked to programming with Lua
+and using it for a lot of things (like &lt;a class="link" href="https://github.com/Rosettea/Hilbish" target="_blank" rel="noopener"
+>Hilbish&lt;/a>)
+and moved my Neovim config to Lua.&lt;/p>
+&lt;p>Pan to around February and I was suggested to try Lite XL. I&amp;rsquo;ve already heard of Lite
+(which Lite XL is a fork of) and tried both a year ago but at the time I thought
+it was lacking for me to use it. But now I daily drive it as my main and only text
+editor.&lt;/p>
+&lt;p>The title of this post mentions Lite XL being &amp;ldquo;a dream close to reality,&amp;rdquo; since
+one of the reasons I used Neovim was that since there were no good GUI text editors
+(except Sublime, but it also has some problems) but Lite XL is attractive for a few
+reasons:&lt;/p>
+&lt;ul>
+&lt;li>&lt;em>Fast and Lightweight&lt;/em> GUI text editor&lt;/li>
+&lt;li>Lua scripted&lt;/li>
+&lt;li>Almost the entire editor is written in Lua itself, which makes it &lt;em>very&lt;/em> extensible
+The first point could be argued against Sublime, but Lite XL is way lighter than it by
+default. The C core is tiny, which means I can compile it in half a minute (!).
+I also mentioned that it is very extensible. With only a couple lines of code,
+I can put a clock at the corner of the screen. You can draw whatever on the
+Lite XL window, which brings a lot of creativity. It&amp;rsquo;s how I made this &lt;a class="link" href="https://github.com/TorchedSammy/Visu" target="_blank" rel="noopener"
+>visualizer&lt;/a>
+plugin.&lt;/li>
+&lt;/ul>
+&lt;p>There&amp;rsquo;s also a few other plugins, including an &lt;a class="link" href="https://github.com/lite-xl/lite-xl-lsp/" target="_blank" rel="noopener"
+>LSP&lt;/a>.
+If you need LSP kind icons by the way, &lt;a class="link" href="https://github.com/TorchedSammy/lite-xl-lspkind" target="_blank" rel="noopener"
+>I have you covered.&lt;/a>
+The title of this post once again mentions Lite XL being a dream &lt;em>close to reality.&lt;/em>
+There are/were a few problems I&amp;rsquo;ve encountered. A first thing is &lt;a class="link" href="https://github.com/lite-xl/lite-xl/issues/838" target="_blank" rel="noopener"
+>graphical bugs&lt;/a>
+due to my scaled screen. Another thing was that there was a few of plugins from
+the central plugin repository broken. There were a few other minor things, but
+close to all of these were fixed by using the master branch and using updated
+plugins.&lt;/p>
+&lt;p>Lite XL is still fairly new and gets a lot of new additions, like the
+status view no longer having hardcoded items and positions and instead has a
+nice API to add, hide and move items. I&amp;rsquo;ve also contributed a bit, whether that
+is via discussion, the plugins and pull requests I&amp;rsquo;ve made, like things to
+improve syntax highlighting for Go and Markdown.&lt;/p>
+&lt;p>There&amp;rsquo;s still quite a few things missing. A lot of the things I had in Neovim
+I now don&amp;rsquo;t have with Lite XL. Treesitter, which provided more advanced syntax
+highlighting, &lt;a class="link" href="https://github.com/nvim-telescope/telescope.nvim" target="_blank" rel="noopener"
+>Telescope&lt;/a> and
+Breadcrumbs (they&amp;rsquo;re a bit helpful and add to the look). LSP plugin doesn&amp;rsquo;t have
+a few things like renaming and snippets but generally works well.&lt;/p>
+&lt;p>Would I recommend Lite XL? Yes, but it really depends on what you want/need.
+As mentioned, the extensiblity, speed and lightness are the main selling points
+but with a small ecosystem it just means if something quite general doesn&amp;rsquo;t
+exist, you&amp;rsquo;ll have to make it yourself, and anything niche is off the table.
+Atleast there&amp;rsquo;s a &lt;a class="link" href="https://github.com/eugenpt/lite-xl-vibe" target="_blank" rel="noopener"
+>Vim mode&lt;/a> plugin.&lt;/p></description></item><item><title>Please Make Your APIs Restful</title><link>https://sammy.is-a.dev/blog/please-make-your-apis-restful/</link><pubDate>Tue, 16 Nov 2021 22:33:15 -0500</pubDate><guid>https://sammy.is-a.dev/blog/please-make-your-apis-restful/</guid><description>&lt;p>Have you ever been working on something but it doesn&amp;rsquo;t work properly
 and you don&amp;rsquo;t know why? This is exactly what I thought when I was working
 on &lt;a class="link" href="https://github.com/TorchedSammy/Circleload" target="_blank" rel="noopener"
 >Circleload&lt;/a> yesterday.&lt;/p>
@@ -7,11 +65,11 @@ on &lt;a class="link" href="https://github.com/TorchedSammy/Circleload" target="
 >Kitsu&lt;/a> (not the anime list) that looked really simple.
 Except when it returned status code 200 for a beatmap I &lt;em>know&lt;/em> doesn&amp;rsquo;t exist.&lt;/p>
 &lt;p>Turns out that this API, when getting a beatmap, returns an object like this:&lt;/p>
-&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-json" data-lang="json">&lt;span class="p">{&lt;/span>
-&lt;span class="nt">&amp;#34;code&amp;#34;&lt;/span>&lt;span class="p">:&lt;/span> &lt;span class="mi">404&lt;/span>&lt;span class="p">,&lt;/span>
-&lt;span class="nt">&amp;#34;message&amp;#34;&lt;/span>&lt;span class="p">:&lt;/span> &lt;span class="s2">&amp;#34;Not found&amp;#34;&lt;/span>
-&lt;span class="p">}&lt;/span>
-&lt;/code>&lt;/pre>&lt;/div>&lt;p>when a beatmap isn&amp;rsquo;t found. You know what else is great? None of these keys are sent
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-json" data-lang="json">&lt;span class="line">&lt;span class="cl">&lt;span class="p">{&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nt">&amp;#34;code&amp;#34;&lt;/span>&lt;span class="p">:&lt;/span> &lt;span class="mi">404&lt;/span>&lt;span class="p">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nt">&amp;#34;message&amp;#34;&lt;/span>&lt;span class="p">:&lt;/span> &lt;span class="s2">&amp;#34;Not found&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">}&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>when a beatmap isn&amp;rsquo;t found. You know what else is great? None of these keys are sent
 on a successful request.&lt;/p>
 &lt;p>Thought that was all? When ratelimited while trying to download, Kitsu still sends
 you a nice 200 status code but sends a body of text. What if you&amp;rsquo;re not ratelimited?
