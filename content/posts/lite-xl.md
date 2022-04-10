@@ -28,6 +28,7 @@ reasons:
 - *Fast and Lightweight* GUI text editor
 - Lua scripted
 - Almost the entire editor is written in Lua itself, which makes it *very* extensible
+
 The first point could be argued against Sublime, but Lite XL is way lighter than it by
 default. The C core is tiny, which means I can compile it in half a minute (!).
 I also mentioned that it is very extensible. With only a couple lines of code,
