@@ -20,15 +20,15 @@ reasons:&lt;/p>
 &lt;ul>
 &lt;li>&lt;em>Fast and Lightweight&lt;/em> GUI text editor&lt;/li>
 &lt;li>Lua scripted&lt;/li>
-&lt;li>Almost the entire editor is written in Lua itself, which makes it &lt;em>very&lt;/em> extensible
-The first point could be argued against Sublime, but Lite XL is way lighter than it by
+&lt;li>Almost the entire editor is written in Lua itself, which makes it &lt;em>very&lt;/em> extensible&lt;/li>
+&lt;/ul>
+&lt;p>The first point could be argued against Sublime, but Lite XL is way lighter than it by
 default. The C core is tiny, which means I can compile it in half a minute (!).
 I also mentioned that it is very extensible. With only a couple lines of code,
 I can put a clock at the corner of the screen. You can draw whatever on the
 Lite XL window, which brings a lot of creativity. It&amp;rsquo;s how I made this &lt;a class="link" href="https://github.com/TorchedSammy/Visu" target="_blank" rel="noopener"
 >visualizer&lt;/a>
-plugin.&lt;/li>
-&lt;/ul>
+plugin.&lt;/p>
 &lt;p>There&amp;rsquo;s also a few other plugins, including an &lt;a class="link" href="https://github.com/lite-xl/lite-xl-lsp/" target="_blank" rel="noopener"
 >LSP&lt;/a>.
 If you need LSP kind icons by the way, &lt;a class="link" href="https://github.com/TorchedSammy/lite-xl-lspkind" target="_blank" rel="noopener"
